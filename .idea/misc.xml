@@ -3,6 +3,18 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/BAPS/AndroidStudioProjects/MADpractical3_21012022046/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/BAPS/AndroidStudioProjects/MADpractical3_21012022046/app/src/main/res/drawable/ic_baseline_email_24.xml" value="0.1" />
+        <entry key="..\:/Users/BAPS/AndroidStudioProjects/MADpractical3_21012022046/app/src/main/res/drawable/ic_baseline_how_to_reg_24.xml" value="0.1" />
+        <entry key="..\:/Users/BAPS/AndroidStudioProjects/MADpractical3_21012022046/app/src/main/res/drawable/ic_baseline_login_24.xml" value="0.1" />
+        <entry key="..\:/Users/BAPS/AndroidStudioProjects/MADpractical3_21012022046/app/src/main/res/drawable/ic_baseline_vpn_key_24.xml" value="0.1" />
+        <entry key="..\:/Users/BAPS/AndroidStudioProjects/MADpractical3_21012022046/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/BAPS/AndroidStudioProjects/MADpractical3_21012022046/app/src/main/res/layout/activity_login.xml" value="0.11302083333333333" />
+        <entry key="..\:/Users/BAPS/AndroidStudioProjects/MADpractical3_21012022046/app/src/main/res/layout/activity_login2.xml" value="0.11302083333333333" />
+        <entry key="..\:/Users/BAPS/AndroidStudioProjects/MADpractical3_21012022046/app/src/main/res/layout/activity_main.xml" value="0.11302083333333333" />
+        <entry key="..\:/Users/BAPS/AndroidStudioProjects/MADpractical3_21012022046/app/src/main/res/layout/activity_main2.xml" value="0.11302083333333333" />
+        <entry key="..\:/Users/BAPS/AndroidStudioProjects/MADpractical3_21012022046/app/src/main/res/layout/activity_registration.xml" value="0.11302083333333333" />
+        <entry key="..\:/Users/BAPS/AndroidStudioProjects/MADpractical3_21012022046/app/src/main/res/menu/navigation_menu.xml" value="0.11302083333333333" />
         <entry key="..\:/Users/BAPS/AndroidStudioProjects/MADpractical3_210120220462/app/src/main/res/drawable/ic_baseline_vpn_key_24.xml" value="0.1" />
         <entry key="..\:/Users/BAPS/AndroidStudioProjects/MADpractical3_210120220462/app/src/main/res/layout/activity_login2.xml" value="0.23790322580645162" />
         <entry key="..\:/Users/BAPS/AndroidStudioProjects/MADpractical3_210120220462/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
